@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|c:\\users\\vucon\\desktop\\.net\\datingapp\\backend\\datingapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|solutionrelative:dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|c:\\users\\vucon\\desktop\\.net\\datingapp\\backend\\datingapp\\model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|solutionrelative:model\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|c:\\users\\vucon\\desktop\\.net\\datingapp\\backend\\datingapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|c:\\users\\vucon\\desktop\\.net\\datingapp\\backend\\datingapp\\model\\userlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|solutionrelative:model\\userlike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|c:\\users\\vucon\\desktop\\.net\\datingapp\\backend\\datingapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|c:\\users\\vucon\\desktop\\.net\\datingapp\\backend\\datingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|c:\\users\\vucon\\desktop\\.net\\datingapp\\backend\\datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|c:\\users\\vucon\\desktop\\.net\\datingapp\\backend\\datingapp\\migrations\\20240321090357_fixkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|solutionrelative:migrations\\20240321090357_fixkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|c:\\users\\vucon\\desktop\\.net\\datingapp\\backend\\datingapp\\dtos\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|solutionrelative:dtos\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|c:\\users\\vucon\\desktop\\.net\\datingapp\\backend\\datingapp\\migrations\\20240321085457_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33A38D2-1BAC-4670-8161-C297367CBEC2}|DatingApp.csproj|solutionrelative:migrations\\20240321085457_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Model\\AppUser.cs",
+              "RelativeDocumentMoniker": "Model\\AppUser.cs",
+              "ToolTip": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Model\\AppUser.cs",
+              "RelativeToolTip": "Model\\AppUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:55:05.372Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "Dtos\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T09:26:19.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dataContext.cs",
+              "DocumentMoniker": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Data\\dataContext.cs",
+              "RelativeDocumentMoniker": "Data\\dataContext.cs",
+              "ToolTip": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Data\\dataContext.cs",
+              "RelativeToolTip": "Data\\dataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:55:47.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAqwC4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:08:14.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240321090357_FixKey.cs",
+              "DocumentMoniker": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Migrations\\20240321090357_FixKey.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240321090357_FixKey.cs",
+              "ToolTip": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Migrations\\20240321090357_FixKey.cs",
+              "RelativeToolTip": "Migrations\\20240321090357_FixKey.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:05:59.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240321085457_Intial.cs",
+              "DocumentMoniker": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Migrations\\20240321085457_Intial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240321085457_Intial.cs",
+              "ToolTip": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Migrations\\20240321085457_Intial.cs",
+              "RelativeToolTip": "Migrations\\20240321085457_Intial.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:56:04.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:50:14.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T08:49:26.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Dtos\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Dtos\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Dtos\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Dtos\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:30:02.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLike.cs",
+              "DocumentMoniker": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Model\\UserLike.cs",
+              "RelativeDocumentMoniker": "Model\\UserLike.cs",
+              "ToolTip": "C:\\Users\\vucon\\Desktop\\.NET\\DatingApp\\backend\\DatingApp\\Model\\UserLike.cs",
+              "RelativeToolTip": "Model\\UserLike.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T08:04:49.492Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
